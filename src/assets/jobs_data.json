@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "job_title": "UX/UI Designer",
+      "company_name": "InnovateTech Ltd.",
+      "job_location": "Seattle, WA",
+      "job_type": "Full-time",
+      "job_description": "Join InnovateTech Ltd. as a UX/UI Designer and contribute to the design of user-friendly interfaces for our web and mobile applications. The ideal candidate will have a strong understanding of user-centered design principles and proficiency in tools such as Sketch and Adobe XD."
+    },
+    {
+      "id": 2,
+      "job_title": "Financial Analyst",
+      "company_name": "Investment Insights Group",
+      "job_location": "Chicago, IL",
+      "job_type": "Full-time",
+      "job_description": "Investment Insights Group is seeking a Financial Analyst to provide data-driven insights and support to our investment team. The role involves financial modeling, market research, and analysis of investment opportunities."
+    },
+    {
+      "id": 3,
+      "job_title": "Content Writer",
+      "company_name": "Digital Marketing Agency Xcelerate",
+      "job_location": "Remote",
+      "job_type": "Part-time",
+      "job_description": "Digital Marketing Agency Xcelerate is looking for a talented Content Writer to produce engaging and SEO-friendly content for our clients' websites, blogs, and social media channels. This part-time remote position offers flexible hours."
+    },
+    {
+      "id": 4,
+      "job_title": "HR Manager",
+      "company_name": "Talent Solutions Inc.",
+      "job_location": "Dallas, TX",
+      "job_type": "Remote",
+      "job_description": "Talent Solutions Inc. is hiring an HR Manager to oversee all aspects of human resources, including recruitment, employee relations, and performance management. The ideal candidate will have a strong HR background and excellent interpersonal skills."
+    },
+    {
+      "id": 5,
+      "job_title": "Sales Representative",
+      "company_name": "Growth Dynamics Corporation",
+      "job_location": "Miami, FL",
+      "job_type": "Full-time",
+      "job_description": "Growth Dynamics Corporation is seeking motivated Sales Representatives to drive revenue growth by acquiring new clients and maintaining relationships with existing ones. This role offers competitive compensation with commission-based incentives."
+    },
+    {
+      "id": 6,
+      "job_title": "Product Manager",
+      "company_name": "Tech Solutions Ltd.",
+      "job_location": "San Jose, CA",
+      "job_type": "Remote",
+      "job_description": "Tech Solutions Ltd. is looking for a Product Manager to lead the development and launch of innovative software products. The ideal candidate will have a strong technical background, excellent project management skills, and a passion for building customer-centric products."
+    },
+    {
+      "id": 7,
+      "job_title": "Software Quality Assurance Engineer",
+      "company_name": "QualityTech Inc.",
+      "job_location": "Boston, MA",
+      "job_type": "Part-time",
+      "job_description": "QualityTech Inc. is seeking a Software Quality Assurance Engineer to ensure the quality and reliability of our software products through rigorous testing. The role involves developing test plans, executing test cases, and reporting bugs."
+    },
+    {
+      "id": 8,
+      "job_title": "Operations Manager",
+      "company_name": "Logistics Solutions Group",
+      "job_location": "Atlanta, GA",
+      "job_type": "Full-time",
+      "job_description": "Logistics Solutions Group is hiring an Operations Manager to oversee day-to-day operations and optimize efficiency in our logistics processes. The ideal candidate will have experience in supply chain management and strong leadership skills."
+    },
+    {
+      "id": 9,
+      "job_title": "Production Engineer",
+      "company_name": "PetroWorks Engineering Solutions",
+      "job_location": "On-site (Houston, TX)",
+      "job_type": "Full-time",
+      "job_description": "PetroWorks Engineering Solutions is seeking a skilled Production Engineer to oversee manufacturing processes and optimize production efficiency in our oil refinery plant. The ideal candidate will have a background in chemical engineering, strong problem-solving skills, and experience in process optimization. This full-time position offers competitive compensation and benefits."
+    }
+  ]

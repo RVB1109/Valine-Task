@@ -1,0 +1,28 @@
+<div class="row">
+  <form [formGroup]="formData" (ngSubmit)="filteredJobs()">
+    <div class="filter" style="margin-top: 20px; width: 100%">
+      <h6 for="jobType">Search by Job Type:</h6>
+      <select class="location selectlist" formControlName="filteredJobType">
+        <option value="">-Select-</option>
+        <option
+          class="form-control"
+          *ngFor="let data of jobType"
+          [value]="data"
+        >
+          {{ data }}
+        </option>
+      </select>
+    </div>
+    <div class="d-flex justify-content-center">
+      <button
+        type="submit"
+        class="btn btn-primary"
+        [disabled]="!formData.valid"
+      >
+        Search
+      </button>
+    </div>
+  </form>
+</div>
+<!-- </div> -->
+

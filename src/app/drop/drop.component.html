@@ -1,0 +1,17 @@
+<p>drop works!</p>
+
+<!-- job.component.html -->
+<div>
+    <label for="jobTitle">Select Job Title:</label>
+    <select id="jobTitle" [(ngModel)]="selectedJobTitle" (change)="onJobTitleChange()">
+      <option *ngFor="let title of jobTitles" [value]="title">{{ title }}</option>
+    </select>
+  </div>
+  
+  <div *ngIf="jobLocations && jobLocations.length">
+    <label for="jobLocation">Select Job Location:</label>
+    <select id="jobLocation" [(ngModel)]="selectedJobLocation">
+      <option *ngFor="let location of jobLocations" [value]="location">{{ location }}</option>
+    </select>
+  </div>
+  
